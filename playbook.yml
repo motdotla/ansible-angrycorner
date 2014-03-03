@@ -1,0 +1,9 @@
+---
+
+- name: Ansible Playbook for installing angrycorner on Digital Ocean
+
+  hosts: webservers
+  roles:
+    - angrycorner
+  remote_user: root
+  sudo: yes
