@@ -1,6 +1,6 @@
 # angrycorner-ansible
 
-Run angrycorner on your service of choice w/ RAGE. Designed for Ubuntu 12.04 x64.
+Run angrycorner on your service of choice - WITH RAGE. Designed for Ubuntu 12.04 x64.
 
 ## Installation
 
